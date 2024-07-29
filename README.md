@@ -1,7 +1,9 @@
 # Food Delivery Cost and Profitability Analysis
 ## Overview
 
-This project analyzes food delivery operations to assess profitability. It calculates average commission and discount rates for profitable orders, compares these to overall averages, and provides recommendations for optimizing rates to boost profitability, supported by key visualizations.
+**The Food Delivery Cost and Profitability Analysis** project uses Python to analyze 1,000 food delivery orders. It calculates total revenue of 126,990 INR and total costs of 232,709.85 INR, revealing a net loss of 105,719.85 INR. Key findings show that profitable orders have a commission rate of 30.51% and a discount rate of 5.87%.
+
+The project includes visualizations such as profit distribution histograms, cost breakdown pie charts, and revenue versus cost bar charts. These insights provide actionable recommendations to enhance profitability by optimizing commission and discount rates, aiming to improve operational efficiency in food delivery services
 
 ## Data Preparation
 
