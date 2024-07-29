@@ -128,7 +128,7 @@ new_avg_discount_percentage = profitable_orders['Effective Discount Percentage']
 
 print(new_avg_commission_percentage, new_avg_discount_percentage)
 ```
-![](/Images/8.png)
+
 The analysis shows that to improve profitability, aim for a commission rate of about 30.51% and a discount rate of around 5.87%. This suggests that higher commissions and lower discounts could enhance profitability.
 
 ## Visualization of Profitability Comparison
